@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Projet Collaboratif 2026");
+	printf("Projet Collaboratif : ok");
 	return (0);
 }
